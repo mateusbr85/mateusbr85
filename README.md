@@ -20,7 +20,7 @@ meu nome é Mateus Veloso criador do canal [MV Dev](https://www.youtube.com/chan
 
 ##
 
-## **Linguagens e Ferramentas utilizadas:** 
+## **Trabalhos Recentes:** 
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/E4uqLHm.png"/>](http://necbrasil.com.br/)
 

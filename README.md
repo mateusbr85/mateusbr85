@@ -33,6 +33,12 @@ Projects: [SGT](https://cruzdemalta.com.br), [Serena](https://serenaarmazens.com
 
 
 ##
+
+## **Bibliotecas NPM**
+
+[cxml-util-rs](https://www.npmjs.com/package/cxml-util-rc), é uma biblioteca desenvolvida para ajudar a conversão de arquivos cxml/xml, criada por mim.
+
+##
  
  **Minhas redes e mais sobre mim:**
  

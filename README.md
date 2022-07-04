@@ -27,7 +27,7 @@ meu nome é Mateus Veloso criador do canal [MV Dev](https://www.youtube.com/chan
 
 **Full-Stack (Jr)** \
 [**Nec Brasil**](http://necbrasil.com.br/) • Full-time \
-Languages & Technologies: `JavaScript`, `TypeScript, `Node`, `Next.js`, `PHP`, `SASS`, `Postgres`\
+Languages & Technologies: `JavaScript`, `TypeScript`, `Node`, `Next.js`, `PHP`, `SASS`, `Postgres`\
 Projects: [SGT](https://cruzdemalta.com.br), [Serena](https://serenaarmazens.com.br), [MX Drive](http://www.mxdrive.com.br)
 <br/>
 

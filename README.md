@@ -39,6 +39,13 @@ Projects: [SGT](http://www.cruzdemaltatransportes.com.br), [Serena](https://sere
 [cxml-util-rs](https://www.npmjs.com/package/cxml-util-rc), é uma biblioteca desenvolvida para ajudar a conversão de arquivos cxml/xml, criada por mim.
 
 ##
+---
+
+*Ouça Comigo 🎧*
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/6WnOk6l8nfYrGKWwO2JHuz?si=17013c60b9fe4b50)
+<br/>
+---
  
  **Minhas redes e mais sobre mim:**
  

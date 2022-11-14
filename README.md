@@ -5,7 +5,8 @@ meu nome é Mateus Veloso criador do canal [MV Dev](https://www.youtube.com/chan
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbr85&langs_count=7&theme=dark"/>
 </div>
 
-## **Linguagens e Ferramentas utilizadas:** 
+---
+**Linguagens e Ferramentas utilizadas:** 
 
 <div style="display: inline_block"><br>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Matues-vscode" width="40" height="30"/>
@@ -18,9 +19,9 @@ meu nome é Mateus Veloso criador do canal [MV Dev](https://www.youtube.com/chan
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 </div>
 
-##
+---
 
-## **Trabalhos Recentes:** 
+**Trabalhos Recentes:** 
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/E4uqLHm.png"/>](http://necbrasil.com.br/)
 
@@ -32,13 +33,11 @@ Projects: [SGT](http://www.cruzdemaltatransportes.com.br), [Serena](https://sere
 <br/>
 
 
-##
-
-## **Bibliotecas NPM**
+---
+**Bibliotecas NPM**
 
 [cxml-util-rs](https://www.npmjs.com/package/cxml-util-rc), é uma biblioteca desenvolvida para ajudar a conversão de arquivos cxml/xml, criada por mim.
 
-##
 ---
 
 *Ouça Comigo 🎧*
@@ -55,7 +54,7 @@ Projects: [SGT](http://www.cruzdemaltatransportes.com.br), [Serena](https://sere
   <a href = "mailto:mateus.maveloso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-veloso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  //![Snake animation](https://github.com/mateusbr85/mateusbr85/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mateusbr85/mateusbr85/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 

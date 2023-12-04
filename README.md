@@ -26,7 +26,7 @@ meu nome é Mateus Veloso criador do canal [MV Dev](https://www.youtube.com/chan
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/E4uqLHm.png"/>](http://necbrasil.com.br/)
 
 
-**Full-Stack (Jr)** \
+**Full-Stack (Pleno)** \
 [**Nec Brasil**](http://necbrasil.com.br/) • Full-time \
 Languages & Technologies: `JavaScript`, `TypeScript`, `Node`, `Next.js`, `PHP`, `SASS`, `Postgres`\
 Projects: [SGT](http://www.cruzdemaltatransportes.com.br), [Serena](https://serenaarmazens.com.br), [MX Drive](http://www.mxdrive.com.br)

@@ -23,7 +23,7 @@ meu nome é Mateus Veloso criador do canal [MV Dev](https://www.youtube.com/chan
 
 **Trabalhos Recentes:** 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://dmwnh9nwzeoaa.cloudfront.net/2020-11/ciandt-logo-thumbnail.png"/>]([http://necbrasil.com.br/](https://ciandt.com/br/pt-br/home))
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://dmwnh9nwzeoaa.cloudfront.net/2020-11/ciandt-logo-thumbnail.png"/>](https://ciandt.com/br/pt-br/home)
 
 **Full-Stack (Pleno)** 
 [**CI&T**](https://ciandt.com/br/pt-br/home) • Full-time \
